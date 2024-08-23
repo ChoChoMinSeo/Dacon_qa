@@ -3,7 +3,7 @@
 ## Competition info
 
 [Website](https://dacon.io/competitions/official/236216/overview/description)
-[Notion](https://www.notion.so/minseocho/42bb7fd8145e4a479ae4f3cc4c76ec52)
+[Notion](https://minseocho.notion.site/42bb7fd8145e4a479ae4f3cc4c76ec52?pvs=4)
 
 ```
 Dacon_qa/
